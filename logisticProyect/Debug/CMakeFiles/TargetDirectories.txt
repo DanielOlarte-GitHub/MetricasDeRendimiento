@@ -1,0 +1,3 @@
+/home/daniel/Escritorio/TrabajosU/Metricas/logisticProyect/Debug/CMakeFiles/logisticProyect.dir
+/home/daniel/Escritorio/TrabajosU/Metricas/logisticProyect/Debug/CMakeFiles/edit_cache.dir
+/home/daniel/Escritorio/TrabajosU/Metricas/logisticProyect/Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Ejemplo.dir/main.cpp.o CMakeFiles/Ejemplo.dir/Extraccion/extoeigen.cpp.o  -o Ejemplo 

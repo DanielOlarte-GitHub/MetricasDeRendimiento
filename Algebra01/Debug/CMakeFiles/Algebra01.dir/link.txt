@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Algebra01.dir/main.cpp.o -o Algebra01 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/Documentos/MR-1/Ejemplo/Extraccion/extoeigen.cpp
+extoeigen.h
+/home/pedro/Documentos/MR-1/Ejemplo/Extraccion/extoeigen.h
+iostream
+-
+fstream
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+boost/algorithm/string.hpp
+-
+
+/home/pedro/Documentos/MR-1/Ejemplo/Extraccion/extoeigen.h
+iostream
+-
+fstream
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+iostream
+-
+fstream
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+

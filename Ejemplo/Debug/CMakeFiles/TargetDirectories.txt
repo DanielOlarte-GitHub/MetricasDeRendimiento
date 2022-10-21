@@ -1,0 +1,3 @@
+/home/pedro/Documentos/MR-1/Ejemplo/Debug/CMakeFiles/rebuild_cache.dir
+/home/pedro/Documentos/MR-1/Ejemplo/Debug/CMakeFiles/edit_cache.dir
+/home/pedro/Documentos/MR-1/Ejemplo/Debug/CMakeFiles/Ejemplo.dir
