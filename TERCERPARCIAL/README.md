@@ -7,7 +7,7 @@
 <p>Daniel Alejandro Olarte Ávila</p>
 <p>22 de Noviembre 2022</p>
 <p>Profesor: John Corredor</p></center>
-
+<br><hr><hr><br><br><br>
   
   <h3> En este interesante proyecto se podra evidenciar un problema de Clasificación de ML desde 2 puntos de vista, Python y C++, comparando su rendimiento y resultados</h3>
   
