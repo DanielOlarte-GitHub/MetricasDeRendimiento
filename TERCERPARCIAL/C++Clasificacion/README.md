@@ -29,3 +29,14 @@
   
   
   <h3>Adicionalmente se usa el modulo Folium, aprovechando las caracteristicas del dataset, para representar en forma de mapa en que lugar exactamente ocurrieron dichos delitos de forma interactiva y llamativa</h3>
+  
+  
+  <h3> Pre-requisitos </h3>
+* Editor de Codigo de preferencia
+* Eigen/Boots
+* Python3
+* Cmake
+
+
+<h3> Instalación </h3>
+* Ingresar comandos para crear ejecutable los cuales son make clean para asegurar si existe algun error o no y make all crear el ejecutable, objeto o archivos que permitiran ejecutar.
