@@ -12,7 +12,7 @@
   <h3> En este interesante proyecto se podra evidenciar un problema de Clasificación de ML desde 2 puntos de vista, Python y C++, comparando su rendimiento y resultados</h3>
   
   
-  <p>En este trabajo se podra evidenciar el proceso al obtener un dataset, el cual constara de un EDA y asi mismo un arreglo de dichos datos, datos faltantes, outliers, datos categoricos, features mas importantes, etc. </p>
+  <p>Se podra evidenciar el proceso al obtener un dataset, el cual constara de un EDA y asi mismo un arreglo de dichos datos, datos faltantes, outliers, datos categoricos, features mas importantes, etc. </p>
 <p>Asi mismo se evaluara luego en el lenguaje de C++ para comparar el rendimiento y asi mismo la eficiencia de los modelos de ML, como es el caso de Regresion Logistica y Decenso del gradiente </p>
 
 <b> El DataSet con el que se va a trabajar es un DataSet que contiene los delitos cometidos en la ciudad de Chicago entre el año 2012 al 2017 en la cual contiene solo delitos de 4 tipos que son:</b>
